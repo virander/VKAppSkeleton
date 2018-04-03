@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DRI.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BF3D438746EAD993D02E818506D1D4842D62D03D</string>
+				<key>dateExpires</key>
+				<string>19/09/18</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>BF3D438746EAD993D02E818506D1D4842D62D03D</string>
+						<key>dateExpires</key>
+						<string>19/09/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Material.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>ZWG7RWLCY9</string>
+						<key>name</key>
+						<string>THE DEFENSE RESEARCH INSTITUTE, INC.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>BF3D438746EAD993D02E818506D1D4842D62D03D</string>
+						<key>dateExpires</key>
+						<string>19/09/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MaterialControls.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>ZWG7RWLCY9</string>
+						<key>name</key>
+						<string>THE DEFENSE RESEARCH INSTITUTE, INC.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>BF3D438746EAD993D02E818506D1D4842D62D03D</string>
+						<key>dateExpires</key>
+						<string>19/09/18</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftHSVColorPicker.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>ZWG7RWLCY9</string>
+						<key>name</key>
+						<string>THE DEFENSE RESEARCH INSTITUTE, INC.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>ZWG7RWLCY9.com.dri.driCircle</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>ZWG7RWLCY9</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>DRI.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>279b2331-b3f9-4192-86ec-fa0234bb3012</string>
+				<key>name</key>
+				<string>DRI ADHOC DISTRIBUTION PROFILE</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>ZWG7RWLCY9</string>
+				<key>name</key>
+				<string>THE DEFENSE RESEARCH INSTITUTE, INC.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

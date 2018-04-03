@@ -1,0 +1,50 @@
+
+App Thinning Size Report for All Variants of DRI
+
+Variant: DRI-iPad (4th generation)-etc.ipa
+Supported devices: iPad (3rd generation) and iPad (4th generation)
+App + On Demand Resources size: 10.5 MB compressed, 20 MB uncompressed
+App size: 10.5 MB compressed, 20 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: DRI-iPad 2-etc.ipa
+Supported devices: iPad 2 and iPad mini
+App + On Demand Resources size: 10.4 MB compressed, 19.9 MB uncompressed
+App size: 10.4 MB compressed, 19.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: DRI-iPad Pro (12.9-inch)-etc.ipa
+Supported devices: iPad (5th generation), iPad Air, iPad Air 2, iPad Pro (10.5-inch), iPad Pro (12.9-inch), iPad Pro (12.9-inch) (2nd generation), iPad Pro (9.7-inch), iPad mini 2, iPad mini 3, and iPad mini 4
+App + On Demand Resources size: 10 MB compressed, 19.4 MB uncompressed
+App size: 10 MB compressed, 19.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: DRI-iPhone 6 Plus-etc.ipa
+Supported devices: iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus, and iPhone X
+App + On Demand Resources size: 10.1 MB compressed, 19.5 MB uncompressed
+App size: 10.1 MB compressed, 19.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: DRI-iPhone 8-etc.ipa
+Supported devices: iPhone 5s, iPhone 6, iPhone 6s, iPhone 7, iPhone 8, iPhone SE, and iPod touch (6th generation)
+App + On Demand Resources size: 10.1 MB compressed, 19.4 MB uncompressed
+App size: 10.1 MB compressed, 19.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: DRI-iPod touch-etc.ipa
+Supported devices: iPhone 4S, iPhone 5, iPhone 5c, and iPod touch
+App + On Demand Resources size: 10.5 MB compressed, 20 MB uncompressed
+App size: 10.5 MB compressed, 20 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: DRI.ipa
+Supported devices: Universal
+App + On Demand Resources size: 18.4 MB compressed, 36.5 MB uncompressed
+App size: 18.4 MB compressed, 36.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
